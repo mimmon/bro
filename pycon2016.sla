@@ -690,7 +690,7 @@
             <ITEXT CH=", Petr Viktorin (CZ) "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="10:00 "/>
-            <ITEXT CPARENT="Italic" CH="Basics of Functional Programming (Also In Python)"/>
+            <ITEXT CPARENT="Italic" CH="Basics of Functional Programming"/>
             <ITEXT CH=", Andrea "/>
             <ITEXT FONT="Calibri Light" FONTSIZE="8" CH="Šť"/>
             <ITEXT FONT="BastardusSans Regular" CH="e"/>
@@ -750,7 +750,7 @@
             <ITEXT CH="  9:00 Opening talk"/>
             <para PARENT="Predvolený štýl"/>
             <ITEXT CH="  9:20 "/>
-            <ITEXT CPARENT="Italic" CH="Teach, Learn And Code"/>
+            <ITEXT CPARENT="Italic" CH="Teach, Learn And Program"/>
             <ITEXT CH=", Nick Tollervey (EN)"/>
             <para PARENT="Predvolený štýl"/>
             <ITEXT CH="10:00 "/>
@@ -823,13 +823,13 @@
             <ITEXT CH="           Michal Kuffa (EN)"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="13:05 "/>
-            <ITEXT CPARENT="Italic" CH="BuildingA Deploying Containerized Python Apps In the Cloud"/>
+            <ITEXT CPARENT="Italic" CH="Building And Deploying Containerized Python Apps In the Cloud"/>
             <ITEXT CH=", "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="           Rodolfo Carvalho (EN)"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="14:00 "/>
-            <ITEXT CPARENT="Italic" CH="Automating Distributed Tasks with Ansible in the Cloud"/>
+            <ITEXT CPARENT="Italic" CH="Automating Distributed Tasks with Ansible In the Cloud"/>
             <ITEXT CH=","/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="           B"/>
