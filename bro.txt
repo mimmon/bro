@@ -190,11 +190,11 @@ Saturday: Track 1
   9:20 Teach, Learn And Program, Nick Tollervey (EN)
 10:00 Can Free Software Be a Full Time Job?, Bjarni Runar Einarsson (EN)
 10:35 Building Protocol Libraries The Right Way, Cory Benfield (EN)
-11:20 Behind The Scenes Of Day-To-Day Software Development At Google, 
-           Petra Cross (EN)
-12:00 Documentation-Driven Development: Lessons From the Django Project, 
+11:20 Documentation-Driven Development: Lessons From the Django Project, 
            Daniel Procide (EN)
-13:55 Automatic English Text Correction, Tatiana Al-Chueyr Martins (EN)
+12:00 Analyzing Networks In Python, Johannes Wachs (EN)
+13:55 Behind The Scenes Of Day-To-Day Software Development At Google, 
+           Petra Cross (EN)
 14:50 Painless Testing With Django, Max Kharandziuk (EN)
 15:25 Python - What You Didn't Know You Didn't Know, 
            Martina Šturdíková & Laura Mann (EN)
@@ -211,16 +211,16 @@ Saturday: Track 1
 Saturday: Track 2
 
 10:00 Scientific Computing with Python, Claus Aichinger (EN)
-10:55 Analyzing Networks In Python, Johannes Wachs (EN)
-11:35 Building Netflow Based NIDS Out of Open Source Components, 
+10:55 Automatic English Text Correction, Tatiana Al-Chueyr Martins (EN)
+11:50 Building Netflow Based NIDS Out of Open Source Components, 
            Michal Kuffa (EN)
-13:05 Building And Deploying Containerized Python Apps In the Cloud, 
+13:45 Building And Deploying Containerized Python Apps In the Cloud, 
            Rodolfo Carvalho (EN)
-14:00 Automating Distributed Tasks with Ansible In the Cloud,
+14:40 Automating Distributed Tasks with Ansible In the Cloud,
            Büşra Köken (EN)
-14:45 Vagrant - End of "It works on my machine" saga, Věroš Kaplan (CZ)
-15:25 Personalised Emails Using Python and Spark, Tomáš Sirný (SK)
-16:15 Automated Measurements Using Python, Matúš Rehák (SK)
+15:20 Vagrant - End of "It works on my machine" saga, Věroš Kaplan (CZ)
+16:00 Personalised Emails Using Python and Spark, Tomáš Sirný (SK)
+16:45 Automated Measurements Using Python, Matúš Rehák (SK)
 
 
 Sunday
