@@ -1140,7 +1140,7 @@
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="In case you would like to send us suggestions to make the conference better,  want to share experiences or you simply want to let us know what you liked or you didn't, please send as a feedback: "/>
+            <ITEXT CH="In case you would like to send us suggestions how to make the conference better,  or you want to share experiences, or you simply want to let us know what you liked or you did not like, please send as feedback: "/>
             <ITEXT CPARENT="Italic" CH="feedback@pycon.sk"/>
             <ITEXT CH="."/>
             <trail/>
