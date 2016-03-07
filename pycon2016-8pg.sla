@@ -978,7 +978,7 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="• All who contributed to the programme - especially our speakers and workshop tutors."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="• Marc-Andre Lemburg, Miloš Šrámek and all conference volunteers."/>
+            <ITEXT CH="• Marc-André Lemburg, prof. Ing. Miloš Šrámek, PhD. and all conference volunteers."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="• Everyone else who contributed to the conference in any way."/>
             <para PARENT="Default Paragraph Style"/>
@@ -1560,7 +1560,7 @@
             <ITEXT CH=", Adam Gluch (SK)"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CPARENT="Italic" CH="Mashing Up py.test, coverage.py And ast.py to Take TDD To a New Level"/>
-            <ITEXT CH=",            Tibor Arpas (SK)"/>
+            <ITEXT CH=",            Tibor Arpáš (SK)"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CPARENT="Italic" CH="Tips And Tricks For Using Functional Features of Python"/>
             <ITEXT CH=", Jakub Ševcech (SK)"/>
@@ -1615,7 +1615,7 @@
             <ITEXT CH="Opening talk"/>
             <para PARENT="Default Paragraph Style" ALIGN="0"/>
             <ITEXT CPARENT="Italic" CH="Teach, Learn, Program"/>
-            <ITEXT CH=", Nick Tollervey (EN)"/>
+            <ITEXT CH=", Nicholas H. Tollervey (EN)"/>
             <para PARENT="Default Paragraph Style" ALIGN="0"/>
             <ITEXT CPARENT="Italic" CH="Can Free Software Be a Full Time Job?"/>
             <ITEXT CH=", Bjarni Runar Einarsson (EN)"/>
@@ -1626,7 +1626,7 @@
             <ITEXT CPARENT="Italic" CH="Documentation-Driven Development: Lessons From the Django Project"/>
             <ITEXT CH=", "/>
             <para PARENT="Default Paragraph Style" ALIGN="0"/>
-            <ITEXT CH="Daniele Procide (EN)"/>
+            <ITEXT CH="Daniele Procida (EN)"/>
             <para PARENT="Default Paragraph Style" ALIGN="0"/>
             <ITEXT CPARENT="Italic" CH="Analyzing Networks In Python"/>
             <ITEXT CH=", Johannes Wachs (EN)"/>
