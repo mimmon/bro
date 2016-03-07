@@ -77,7 +77,7 @@
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="BastardusSans Regular" FONTSIZE="7"/>
+        <STYLE NAME="Default Paragraph Style" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="BastardusSans Regular" FONTSIZE="7"/>
         <STYLE NAME="Nadpis" ALIGN="1" LINESPMode="1" FONT="Generica Regular" FONTSIZE="16" FEATURES="allcaps" FCOLOR="FromSVG#3e7aab" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" LANGUAGE="Slovak"/>
         <STYLE NAME="Nadpis 2" ALIGN="0" FONT="Generica Regular" FONTSIZE="13" FEATURES="smallcaps" FCOLOR="FromSVG#3e7aab" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" LANGUAGE="Slovak"/>
         <STYLE NAME="Predvolený štýl" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="BastardusSans Regular" FONTSIZE="7"/>
@@ -85,7 +85,8 @@
         <STYLE NAME="Python front" FONT="Caviar Dreams Regular" FONTSIZE="12.6" FCOLOR="FromSVG#3e7aab" SCALEV="95" LANGUAGE="Slovak"/>
         <STYLE NAME="to be changed" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="BastardusSans Regular" FONTSIZE="7" FCOLOR="Red"/>
         <STYLE NAME="to be confirmed" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="BastardusSans Regular" FONTSIZE="7" FCOLOR="Green"/>
-        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="BastardusSans Regular" FONTSIZE="7" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Slovak"/>
+        <STYLE NAME="monospace" FONT="Nimbus Mono L Regular" LANGUAGE="Slovak"/>
+        <CHARSTYLE CNAME="Default Character Style" FONT="BastardusSans Regular" FONTSIZE="7" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Slovak"/>
         <CHARSTYLE CNAME="Member" FONT="Questrial Regular" FONTSIZE="8.5" FEATURES="smallcaps" FCOLOR="FromSVG#3e7aab" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" LANGUAGE="Slovak"/>
         <CHARSTYLE CNAME="Italic" FONT="BastardusSans Regular" FONTSIZE="7" FEATURES="inherit" FCOLOR="FromSVG#3e7aab" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Slovak"/>
         <CHARSTYLE CNAME="Character Style for Slovak diacritics" FONT="Open Sans Light" FONTSIZE="7" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Slovak"/>
@@ -149,7 +150,7 @@
         <PAGE PAGEXPOS="100.001" PAGEYPOS="941.890763779528" PAGEWIDTH="297.637795275591" PAGEHEIGHT="420.944881889764" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="3" NAM="" MNAM="Normální vlevo" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="397.638795275591" PAGEYPOS="941.890763779528" PAGEWIDTH="297.637795275591" PAGEHEIGHT="420.944881889764" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="4" NAM="" MNAM="Normální vpravo" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="1402.83564566929" PAGEWIDTH="297.637795275591" PAGEHEIGHT="420.944881889764" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="5" NAM="" MNAM="Normální vlevo" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
-        <PAGE PAGEXPOS="397.638795275591" PAGEYPOS="1402.83564566929" PAGEWIDTH="297.637795275591" PAGEHEIGHT="420.944881889764" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="6" NAM="" MNAM="Normální vpravo" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="397.638795275591" PAGEYPOS="1402.83564566929" PAGEWIDTH="297.637795275591" PAGEHEIGHT="420.944881889764" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="6" NAM="" MNAM="Normální vpravo" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="0 387.354 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="1863.78052755906" PAGEWIDTH="297.637795275591" PAGEHEIGHT="420.944881889764" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="7" NAM="" MNAM="Normální vlevo" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="417.48131496063" YPOS="102.205724409449" WIDTH="240.944881889764" HEIGHT="200.843818897638" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.0104442483468988" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Skupina37" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="1" groupsLastItem="44" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240.945 0 240.945 0 240.945 0 240.945 0 240.945 200.844 240.945 200.844 240.945 200.844 240.945 200.844 0 200.844 0 200.844 0 200.844 0 200.844 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 6.76813 0 6.76813 0 6.76813 0 6.76813 0 6.76813 6.76241 6.76813 6.76241 6.76813 6.76241 6.76813 6.76241 0 6.76241 0 6.76241 0 6.76241 0 6.76241 0 0 0 0 " NUMGROUP="1" GROUPS="1 " startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="240.944881889764" gHeight="240.944881889764" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
@@ -612,18 +613,23 @@
             <ITEXT CH="Code of Conduct"/>
             <para PARENT="Nadpis"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="The Python community is made up of members from around the globe with a diverse set of skills, personalities, and experiences. It is through these differences that our community experiences great successes and continued growth. When you're working with members of the community, we encourage you to follow these guidelines which help steer our interactions and strive to keep Python a positive, successful, and growing community."/>
+            <ITEXT CH="The Python community is made up of members from around the globe with a"/>
+            <nbspace/>
+            <ITEXT CH="diverse set of skills, personalities, and experiences. It is through these differences that our community experiences great successes and continued growth. When you're working with members of the community, we encourage you to follow these guidelines which help steer our interactions and strive to keep Python a positive, successful, and growing community."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="A member of the Python community is:"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CPARENT="Member" CH="Open : "/>
+            <ITEXT CPARENT="Member" CH="Open "/>
+            <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Members of the community are open to collaboration, whether it's on PEPs, patches, problems, or otherwise. We're receptive to constructive comments and criticism, as the experiences and skill sets of other members contribute to the whole of our efforts. We're accepting of all who wish to take part in our activities, fostering an environment where anyone can participate and can make a difference."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CPARENT="Member" CH="Considerate : "/>
+            <ITEXT CPARENT="Member" CH="Considerate "/>
+            <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Members of the community are considerate of their peers – other Python users. We're thoughtful when addressing the efforts of others, keeping in mind that often times the labor was completed simply for the good of the community. We're attentive in our communications, whether in person or online, and we're tactful when approaching differing views."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CPARENT="Member" CH="Respectful : "/>
+            <ITEXT CPARENT="Member" CH="Respectful "/>
+            <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Members of the community are respectful. We're respectful of others, their positions, their skills, their commitments, and their efforts. We're respectful of the volunteer efforts that permeate the Python community. We're respectful of the processes set forth in the community, and we work within them. When we disagree, we are courteous in raising our issues."/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
@@ -632,243 +638,37 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Participants of PyCon SK fully identify with the Code of Conduct of the Python community. We create an environment, which is open to everyone, regardless of sex, sexual orientation, race, education or religion. All communication should be respectful and professional. We will be tolerant to each other."/>
             <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="We do not offend or vilify other members. We behave professionally. Harassment, sexist, racist or otherwise demeaning jokes are improper at our meetings. We will not tolerate any harassment of participants of meetups in any form."/>
             <trail PARENT="Default Paragraph Style"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="128.34745669" YPOS="1431.18210235929" WIDTH="240.9448819" HEIGHT="367.69289764071" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240.945 0 240.945 0 240.945 0 240.945 0 240.945 367.693 240.945 367.693 240.945 367.693 240.945 367.693 0 367.693 0 367.693 0 367.693 0 367.693 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240.945 0 240.945 0 240.945 0 240.945 0 240.945 367.693 240.945 367.693 240.945 367.693 240.945 367.693 0 367.693 0 367.693 0 367.693 0 367.693 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="128.34745669" YPOS="1431.18210235929" WIDTH="240.9448819" HEIGHT="21.56789764071" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240.945 0 240.945 0 240.945 0 240.945 0 240.945 21.5679 240.945 21.5679 240.945 21.5679 240.945 21.5679 0 21.5679 0 21.5679 0 21.5679 0 21.5679 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240.945 0 240.945 0 240.945 0 240.945 0 240.945 21.5679 240.945 21.5679 240.945 21.5679 240.945 21.5679 0 21.5679 0 21.5679 0 21.5679 0 21.5679 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="Timetable"/>
-            <para PARENT="Nadpis"/>
-            <para LINESPMode="1"/>
-            <ITEXT CH="Friday  "/>
-            <tab/>
-            <tab/>
-            <ITEXT CH="             Large auditorium"/>
-            <para PARENT="Nadpis 2"/>
-            <ITEXT CH="  8:00 Registration"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="  9:00 Opening "/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="  9:20 "/>
-            <ITEXT CPARENT="Italic" CH="How import Works"/>
-            <ITEXT CH=", Petr Viktorin (CZ) "/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="10:00 "/>
-            <ITEXT CPARENT="Italic" CH="Basics of Functional Programming"/>
-            <ITEXT CH=","/>
-            <ITEXT FONT="Calibri Regular" CH=" "/>
-            <ITEXT CPARENT="Default Character Style" CH="Andrea Š"/>
-            <ITEXT CPARENT="Character Style for Slovak diacritics" CH="ť"/>
-            <ITEXT CPARENT="Default Character Style" CH="e"/>
-            <ITEXT CPARENT="Character Style for Slovak diacritics" CH="ň"/>
-            <ITEXT CPARENT="Default Character Style" CH="ová (SK)"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="10:40 "/>
-            <ITEXT CPARENT="Italic" CH="MicroPython"/>
-            <ITEXT CH=", Andrej Mo"/>
-            <ITEXT CPARENT="Character Style for Slovak diacritics" CH="š"/>
-            <ITEXT CH="a"/>
-            <ITEXT CPARENT="Character Style for Slovak diacritics" CH="ť"/>
-            <ITEXT CH=" (SK)"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="11:25  "/>
-            <ITEXT CPARENT="Italic" CH="Virtualenv, Flask, Vagrant, etc."/>
-            <ITEXT CH=", Miroslav Beka (SK)"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="12:05"/>
-            <ITEXT CPARENT="Italic" CH=" Jupyter Notebook At Home, In School, Everywhere"/>
-            <ITEXT CH=", Michal Kauki"/>
-            <ITEXT CPARENT="Character Style for Slovak diacritics" CH="č"/>
-            <ITEXT CH=" (SK)"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="12:35 Lunch break"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="13:45 "/>
-            <ITEXT CPARENT="Italic" CH="Python And Malware"/>
-            <ITEXT CH=", Peter Matkowski (SK)"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="14:40 "/>
-            <ITEXT CPARENT="Italic" CH="Django, Django REST Framework, React"/>
-            <ITEXT CH=", Svetlana Margetová (SK)"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="15:20 "/>
-            <ITEXT CPARENT="Italic" CH="Robot NAO - NAO Programming In Python"/>
-            <ITEXT CH=", Adam Gluch (SK)"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="16:10 "/>
-            <ITEXT CPARENT="Italic" CH="Mashing Up py.test, coverage.py And ast.py to Take TDD To a New Level"/>
-            <ITEXT CH=", "/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="           Tibor Arpas (SK)"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="16:50"/>
-            <ITEXT CPARENT="Italic" CH=" Tips And Tricks For Using Functional Features of Python"/>
-            <ITEXT CH=", Jakub Ševcech (SK)"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="17:30 Lightning Talks"/>
-            <para PARENT="Predvolený štýl"/>
-            <ITEXT CH="17:50 Thank You"/>
-            <para PARENT="Predvolený štýl"/>
-            <para LINESPMode="1"/>
-            <ITEXT CH="Saturday: Track 1"/>
-            <tab/>
-            <ITEXT CH="   "/>
-            <tab/>
-            <ITEXT CH="  Large auditorium"/>
-            <para PARENT="Nadpis 2"/>
-            <ITEXT CH="  8:00 Registration"/>
-            <para PARENT="Predvolený štýl"/>
-            <ITEXT CH="  9:00 Opening talk"/>
-            <para PARENT="Predvolený štýl"/>
-            <ITEXT CH="  9:20 "/>
-            <ITEXT CPARENT="Italic" CH="Teach, Learn, Program"/>
-            <ITEXT CH=", Nick Tollervey (EN)"/>
-            <para PARENT="Predvolený štýl"/>
-            <ITEXT CH="10:00 "/>
-            <ITEXT CPARENT="Italic" CH="Can Free Software Be a Full Time Job?"/>
-            <ITEXT CH=", Bjarni Runar Einarsson (EN)"/>
-            <para PARENT="Predvolený štýl"/>
-            <ITEXT CH="10:35 "/>
-            <ITEXT CPARENT="Italic" CH="Building Protocol Libraries The Right Way"/>
-            <ITEXT CH=", Cory Benfield (EN)"/>
-            <para PARENT="Predvolený štýl"/>
-            <ITEXT CH="11:20 "/>
-            <ITEXT CPARENT="Italic" CH="Documentation-Driven Development: Lessons From the Django Project"/>
-            <ITEXT CH=", "/>
-            <para PARENT="Predvolený štýl"/>
-            <ITEXT CH="           Daniele Procide (EN)"/>
-            <para PARENT="Predvolený štýl"/>
-            <ITEXT CH="12:00 "/>
-            <ITEXT CPARENT="Italic" CH="Analyzing Networks In Python"/>
-            <ITEXT CH=", Johannes Wachs (EN)"/>
-            <para PARENT="Predvolený štýl"/>
-            <ITEXT CH="12:30 Lunch break"/>
-            <para PARENT="Predvolený štýl"/>
-            <ITEXT CH="13:55 "/>
-            <ITEXT CPARENT="Italic" CH="Behind The Scenes Of Day-To-Day Software Development At Google"/>
-            <ITEXT CH=", "/>
-            <para PARENT="Predvolený štýl"/>
-            <ITEXT CH="           Petra Cross (EN)"/>
-            <para PARENT="Predvolený štýl"/>
-            <ITEXT CH="14:50 "/>
-            <ITEXT CPARENT="Italic" CH="Painless Testing With Django"/>
-            <ITEXT CH=", Max Kharandziuk (EN)"/>
-            <para PARENT="Predvolený štýl"/>
-            <ITEXT CH="15:25 "/>
-            <ITEXT CPARENT="Italic" CH="Python - What You Didn't Know You Didn't Know"/>
-            <ITEXT CH=", "/>
-            <para PARENT="Predvolený štýl"/>
-            <ITEXT CH="           Martina Šturdíková (EN)"/>
-            <para PARENT="Predvolený štýl"/>
-            <ITEXT CH="16:10 "/>
-            <ITEXT CPARENT="Italic" CH="Python and DTrace"/>
-            <ITEXT CH=", Jesús Cea Avión (EN)"/>
-            <para PARENT="Predvolený štýl"/>
-            <ITEXT CH="16:50 "/>
-            <ITEXT CPARENT="Italic" CH="Python Application Security Auditing with Bandit"/>
-            <ITEXT CH=", Michael Scherer (EN)"/>
-            <para PARENT="Predvolený štýl"/>
-            <ITEXT CH="17:30 Lightning Talks"/>
-            <para PARENT="Predvolený štýl"/>
-            <ITEXT CH="17:50 Thank You"/>
-            <para PARENT="Predvolený štýl"/>
-            <ITEXT CH="20:00 Dinner @ Nervosa restaurant  -  please purchase a separate ticket for dinner"/>
-            <trail/>
+            <trail PARENT="Nadpis"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="425.985251965591" YPOS="1431.18210235929" WIDTH="240.9448819" HEIGHT="368.06789764071" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240.945 0 240.945 0 240.945 0 240.945 0 240.945 368.068 240.945 368.068 240.945 368.068 240.945 368.068 0 368.068 0 368.068 0 368.068 0 368.068 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240.945 0 240.945 0 240.945 0 240.945 0 240.945 368.068 240.945 368.068 240.945 368.068 240.945 368.068 0 368.068 0 368.068 0 368.068 0 368.068 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <para ALIGN="1" LINESPMode="1"/>
-            <para LINESPMode="1"/>
-            <para LINESPMode="1"/>
-            <ITEXT CH="Saturday: Track 2  "/>
-            <tab/>
-            <ITEXT CH="         Turing Lecture hall"/>
-            <para PARENT="Nadpis 2"/>
-            <ITEXT CH="10:00 "/>
-            <ITEXT CPARENT="Italic" CH="Scientific Computing with Python"/>
-            <ITEXT CH=", Claus Aichinger (EN)"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="10:55 "/>
-            <ITEXT CPARENT="Italic" CH="Automatic English Text Correction"/>
-            <ITEXT CH=", Tatiana Al-Chueyr Martins (EN)"/>
+        <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="425.985251965591" YPOS="1473.70178740158" WIDTH="19.1905511811024" HEIGHT="104.88188976378" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 19.1906 0 19.1906 0 19.1906 0 19.1906 0 19.1906 104.882 19.1906 104.882 19.1906 104.882 19.1906 104.882 0 104.882 0 104.882 0 104.882 0 104.882 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 19.1906 0 19.1906 0 19.1906 0 19.1906 0 19.1906 104.882 19.1906 104.882 19.1906 104.882 19.1906 104.882 0 104.882 0 104.882 0 104.882 0 104.882 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="10:00"/>
             <para PARENT="Predvolený štýl"/>
-            <ITEXT CH="11:50 "/>
-            <ITEXT CPARENT="Italic" CH="Building Netflow Based NIDS Out of Open Source Components"/>
-            <ITEXT CH=", "/>
+            <ITEXT CH="10:55"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="           Michal Kuffa (EN)"/>
+            <ITEXT CH="11:50"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="12:20 Lunch break"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="13:45 "/>
-            <ITEXT CPARENT="Italic" CH="Building And Deploying Containerized Python Apps In the Cloud"/>
-            <ITEXT CH=", "/>
+            <ITEXT CH="12:20"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="           Rodolfo Carvalho (EN)"/>
+            <ITEXT CH="13:45"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="14:40 "/>
-            <ITEXT CPARENT="Italic" CH="Automating Distributed Tasks with Ansible In the Cloud"/>
-            <ITEXT CH=","/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="           B"/>
-            <ITEXT FONTSIZE="7" CH="ü"/>
-            <ITEXT CPARENT="Character Style for Slovak diacritics" CH="ş"/>
-            <ITEXT CH="ra Köken (EN)"/>
+            <ITEXT CH="14:40"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="15:20 "/>
-            <ITEXT CPARENT="Italic" CH="Vagrant - End of &quot;It works on my machine&quot; saga"/>
-            <ITEXT CH=", V"/>
-            <ITEXT CPARENT="Character Style for Slovak diacritics" CH="ě"/>
-            <ITEXT CH="roš Kaplan (CZ)"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="16:00 "/>
-            <ITEXT CPARENT="Italic" CH="Personalised Emails Using Python and Spark"/>
-            <ITEXT CH=", Tomáš Sirný (SK)"/>
+            <ITEXT CH="15:20"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="16:45 "/>
-            <ITEXT CPARENT="Italic" CH="Automated Measurements Using Python"/>
-            <ITEXT CH=", Matúš Rehák (SK)"/>
+            <ITEXT CH="16:00"/>
             <para PARENT="Default Paragraph Style"/>
-            <para LINESPMode="1"/>
-            <ITEXT CH="Sunday  "/>
-            <tab/>
-            <tab/>
-            <ITEXT CH="         Turing Lecture hall"/>
-            <para PARENT="Nadpis 2"/>
-            <ITEXT CH="9:00-17:00 Workshops"/>
-            <para PARENT="Claim"/>
-            <ITEXT CH="• Python clinic"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="• Workshops and sprints"/>
-            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="16:45"/>
             <para/>
-            <ITEXT CH="Sunday  "/>
-            <tab/>
-            <tab/>
-            <ITEXT CH="     Babbage Lecture hall"/>
-            <para PARENT="Nadpis 2"/>
-            <ITEXT CH="8:30-18:30 Django Girls Workshop"/>
-            <para PARENT="Claim"/>
-            <ITEXT CH="Workshop for girls who would love to become web developers. For registered participants only."/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="A word about lightning talks"/>
-            <para PARENT="Nadpis 2"/>
-            <ITEXT CH="A lightning talk has only one rule: 5 minutes and stop."/>
-            <para PARENT="Claim"/>
-            <para/>
-            <ITEXT CH="Want to give a talk, but do not have enough material for a full talk? Have a shout-out for an open source project or tool? Want to share a community story (everyone loves stories!)? Preach the must-know fundamentals of virtualenv, PyPI, import this, etc? Then lightning talks are for you!"/>
-            <para/>
-            <ITEXT CH="These talks are, at max, 5 minute talks done in quick succession in the main hall. No need to fill the whole slot, though!"/>
-            <para/>
-            <ITEXT CH="Lightning talks are low stress, tons of fun, and are rumoured to have originated at one of the very first PyCons years ago. ("/>
-            <ITEXT CPARENT="Italic" CH="https://us.pycon.org/2014/speaking/cfp/"/>
-            <ITEXT CH=")"/>
-            <para/>
-            <ITEXT CH="|"/>
-            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="128.347456692913" YPOS="1032.59942519686" WIDTH="240.944881889764" HEIGHT="19.8425196850394" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240.945 0 240.945 0 240.945 0 240.945 0 240.945 19.8425 240.945 19.8425 240.945 19.8425 240.945 19.8425 0 19.8425 0 19.8425 0 19.8425 0 19.8425 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240.945 0 240.945 0 240.945 0 240.945 0 240.945 19.8425 240.945 19.8425 240.945 19.8425 240.945 19.8425 0 19.8425 0 19.8425 0 19.8425 0 19.8425 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -1198,7 +998,7 @@
             <para/>
             <ITEXT CH="Thanks to "/>
             <ITEXT CPARENT="Italic" CH="sli.do"/>
-            <ITEXT CH=" we all have a unique possibility to satisfy our curiosity. Anyone in the audience can ask questions via web application and vote for the best ones."/>
+            <ITEXT CH=" we all have a unique possibility to satisfy our curiosity. Anyone in the audience can ask questions via aweb application and vote for the best ones."/>
             <para/>
             <para/>
             <ITEXT CH="• Use our unique code #PyConSK to join the discussion and ask questions."/>
@@ -1670,6 +1470,291 @@
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="6" XPOS="642.250323213546" YPOS="1316.86972233021" WIDTH="1.60562137756719" HEIGHT="1.61488070886226" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.0594949170936254" PCOLOR="FromSVG#003d5f" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of  path54" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="20" POCOOR="0 0.807708 0 1.25299 0.802869 1.61488 0.359099 1.61488 0.802869 1.61488 1.24694 1.61488 1.60562 0.807708 1.60562 1.25299 1.60562 0.807708 1.60562 0.361772 0.802869 0 1.24694 0 0.802869 0 0.525416 0 0.436829 0.59673 0.580954 0.381575 0.436829 0.59673 0.350022 0.725631 0 0.807708 0 0.640572 " NUMCO="20" COCOOR="0 0.807708 0 1.25299 0.802869 1.61488 0.359099 1.61488 0.802869 1.61488 1.24694 1.61488 1.60562 0.807708 1.60562 1.25299 1.60562 0.807708 1.60562 0.361772 0.802869 0 1.24694 0 0.802869 0 0.525416 0 0.436829 0.59673 0.580954 0.381575 0.436829 0.59673 0.350022 0.725631 0 0.807708 0 0.640572 " NUMGROUP="4" GROUPS="35 34 33 32 " startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="0" doOverprint="0" gXpos="37.3359373867736" gYpos="9.30966721210302" gWidth="59.3356141732279" gHeight="20" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="128.347456692913" YPOS="1473.70178740158" WIDTH="19.1899763779528" HEIGHT="141.732283464567" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 19.19 0 19.19 0 19.19 0 19.19 0 19.19 141.732 19.19 141.732 19.19 141.732 19.19 141.732 0 141.732 0 141.732 0 141.732 0 141.732 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 19.19 0 19.19 0 19.19 0 19.19 0 19.19 141.732 19.19 141.732 19.19 141.732 19.19 141.732 0 141.732 0 141.732 0 141.732 0 141.732 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="  8:00"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="  9:00"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="   9:20"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="10:00"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="10:40"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="11:25"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="12:05"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="12:35"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="13:45"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="14:40"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="15:20"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="16:10"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="          "/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="16:50"/>
+            <para ALIGN="2"/>
+            <ITEXT CH="17:30"/>
+            <para ALIGN="2"/>
+            <ITEXT CH=" 17:50"/>
+            <para ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="128.347456692913" YPOS="1618.26871653543" WIDTH="241.125" HEIGHT="14.1732283464567" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 241.125 0 241.125 0 241.125 0 241.125 0 241.125 14.1732 241.125 14.1732 241.125 14.1732 241.125 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 241.125 0 241.125 0 241.125 0 241.125 0 241.125 14.1732 241.125 14.1732 241.125 14.1732 241.125 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Saturday: Track 1"/>
+            <tab/>
+            <ITEXT CH="   "/>
+            <tab/>
+            <ITEXT CH="  Large auditorium"/>
+            <para PARENT="Nadpis 2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="148.189976377953" YPOS="1473.27659055118" WIDTH="221.102362204724" HEIGHT="141.732283464567" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 221.102 0 221.102 0 221.102 0 221.102 0 221.102 141.732 221.102 141.732 221.102 141.732 221.102 141.732 0 141.732 0 141.732 0 141.732 0 141.732 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 221.102 0 221.102 0 221.102 0 221.102 0 221.102 141.732 221.102 141.732 221.102 141.732 221.102 141.732 0 141.732 0 141.732 0 141.732 0 141.732 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Registration"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Opening "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CPARENT="Italic" CH="How import Works"/>
+            <ITEXT CH=", Petr Viktorin (CZ) "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CPARENT="Italic" CH="Basics of Functional Programming"/>
+            <ITEXT CH=","/>
+            <ITEXT FONT="Calibri Regular" CH=" "/>
+            <ITEXT CPARENT="Default Character Style" CH="Andrea Š"/>
+            <ITEXT CPARENT="Character Style for Slovak diacritics" CH="ť"/>
+            <ITEXT CPARENT="Default Character Style" CH="e"/>
+            <ITEXT CPARENT="Character Style for Slovak diacritics" CH="ň"/>
+            <ITEXT CPARENT="Default Character Style" CH="ová (SK)"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CPARENT="Italic" CH="MicroPython"/>
+            <ITEXT CH=", Andrej Mo"/>
+            <ITEXT CPARENT="Character Style for Slovak diacritics" CH="š"/>
+            <ITEXT CH="a"/>
+            <ITEXT CPARENT="Character Style for Slovak diacritics" CH="ť"/>
+            <ITEXT CH=" (SK)"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CPARENT="Italic" CH="Virtualenv, Flask, Vagrant, etc."/>
+            <ITEXT CH=", Miroslav Beka (SK)"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CPARENT="Italic" CH="Jupyter Notebook At Home, In School, Everywhere"/>
+            <ITEXT CH=", Michal Kauki"/>
+            <ITEXT CPARENT="Character Style for Slovak diacritics" CH="č"/>
+            <ITEXT CH=" (SK)"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Lunch break"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CPARENT="Italic" CH="Python And Malware"/>
+            <ITEXT CH=", Peter Matkowski (SK)"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CPARENT="Italic" CH="Django, Django REST Framework, React"/>
+            <ITEXT CH=", Svetlana Margetová (SK)"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CPARENT="Italic" CH="Robot NAO - NAO Programming In Python"/>
+            <ITEXT CH=", Adam Gluch (SK)"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CPARENT="Italic" CH="Mashing Up py.test, coverage.py And ast.py to Take TDD To a New Level"/>
+            <ITEXT CH=",            Tibor Arpas (SK)"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CPARENT="Italic" CH="Tips And Tricks For Using Functional Features of Python"/>
+            <ITEXT CH=", Jakub Ševcech (SK)"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Lightning Talks"/>
+            <para PARENT="Predvolený štýl"/>
+            <ITEXT CH="Thank You"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="128.347456692913" YPOS="1632.44194488189" WIDTH="19.1905511811024" HEIGHT="162.125000030708" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 19.1906 0 19.1906 0 19.1906 0 19.1906 0 19.1906 162.125 19.1906 162.125 19.1906 162.125 19.1906 162.125 0 162.125 0 162.125 0 162.125 0 162.125 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 19.1906 0 19.1906 0 19.1906 0 19.1906 0 19.1906 162.125 19.1906 162.125 19.1906 162.125 19.1906 162.125 0 162.125 0 162.125 0 162.125 0 162.125 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="  8:00"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="  9:00"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="  9:20"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="10:00"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="10:35"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="11:20"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="12:00"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="12:30"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="13:55"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="14:50"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="15:25"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="16:10"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="16:50"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="17:30"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="17:50"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <ITEXT CH="20:00"/>
+            <para PARENT="Default Paragraph Style" ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="148.189976377953" YPOS="1632.0167480315" WIDTH="221.102362204724" HEIGHT="164.409448818898" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 221.102 0 221.102 0 221.102 0 221.102 0 221.102 164.409 221.102 164.409 221.102 164.409 221.102 164.409 0 164.409 0 164.409 0 164.409 0 164.409 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 221.102 0 221.102 0 221.102 0 221.102 0 221.102 164.409 221.102 164.409 221.102 164.409 221.102 164.409 0 164.409 0 164.409 0 164.409 0 164.409 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Registration"/>
+            <para PARENT="Default Paragraph Style" ALIGN="0"/>
+            <ITEXT CH="Opening talk"/>
+            <para PARENT="Default Paragraph Style" ALIGN="0"/>
+            <ITEXT CPARENT="Italic" CH="Teach, Learn, Program"/>
+            <ITEXT CH=", Nick Tollervey (EN)"/>
+            <para PARENT="Default Paragraph Style" ALIGN="0"/>
+            <ITEXT CPARENT="Italic" CH="Can Free Software Be a Full Time Job?"/>
+            <ITEXT CH=", Bjarni Runar Einarsson (EN)"/>
+            <para PARENT="Default Paragraph Style" ALIGN="0"/>
+            <ITEXT CPARENT="Italic" CH="Building Protocol Libraries The Right Way"/>
+            <ITEXT CH=", Cory Benfield (EN)"/>
+            <para PARENT="Default Paragraph Style" ALIGN="0"/>
+            <ITEXT CPARENT="Italic" CH="Documentation-Driven Development: Lessons From the Django Project"/>
+            <ITEXT CH=", "/>
+            <para PARENT="Default Paragraph Style" ALIGN="0"/>
+            <ITEXT CH="Daniele Procide (EN)"/>
+            <para PARENT="Default Paragraph Style" ALIGN="0"/>
+            <ITEXT CPARENT="Italic" CH="Analyzing Networks In Python"/>
+            <ITEXT CH=", Johannes Wachs (EN)"/>
+            <para PARENT="Default Paragraph Style" ALIGN="0"/>
+            <ITEXT CH="Lunch break"/>
+            <para PARENT="Default Paragraph Style" ALIGN="0"/>
+            <ITEXT CPARENT="Italic" CH="Behind The Scenes Of Day-To-Day Software Development At Google"/>
+            <ITEXT CH=", "/>
+            <para PARENT="Default Paragraph Style" ALIGN="0"/>
+            <ITEXT CH="Petra Cross (EN)"/>
+            <para PARENT="Default Paragraph Style" ALIGN="0"/>
+            <ITEXT CPARENT="Italic" CH="Painless Testing With Django"/>
+            <ITEXT CH=", Max Kharandziuk (EN)"/>
+            <para PARENT="Default Paragraph Style" ALIGN="0"/>
+            <ITEXT CPARENT="Italic" CH="Python - What You Didn't Know You Didn't Know"/>
+            <ITEXT CH=", "/>
+            <para PARENT="Default Paragraph Style" ALIGN="0"/>
+            <ITEXT CH="Martina Šturdíková (EN)"/>
+            <para PARENT="Default Paragraph Style" ALIGN="0"/>
+            <ITEXT CPARENT="Italic" CH="Python and DTrace"/>
+            <ITEXT CH=", Jesús Cea Avión (EN)"/>
+            <para PARENT="Default Paragraph Style" ALIGN="0"/>
+            <ITEXT CPARENT="Italic" CH="Python Application Security Auditing with Bandit"/>
+            <ITEXT CH=", Michael Scherer (EN)"/>
+            <para PARENT="Default Paragraph Style" ALIGN="0"/>
+            <ITEXT CH="Lightning Talks"/>
+            <para PARENT="Default Paragraph Style" ALIGN="0"/>
+            <ITEXT CH="Thank You"/>
+            <para PARENT="Default Paragraph Style" ALIGN="0"/>
+            <ITEXT CH="Dinner @ Nervosa restaurant  -  please purchase a separate ticket for dinner"/>
+            <trail PARENT="Default Paragraph Style" ALIGN="0"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="128.347456692913" YPOS="1459.52855905512" WIDTH="240.944881889764" HEIGHT="14.1732283464567" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240.945 0 240.945 0 240.945 0 240.945 0 240.945 14.1732 240.945 14.1732 240.945 14.1732 240.945 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240.945 0 240.945 0 240.945 0 240.945 0 240.945 14.1732 240.945 14.1732 240.945 14.1732 240.945 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Friday  "/>
+            <tab/>
+            <tab/>
+            <ITEXT CH="             Large auditorium"/>
+            <trail PARENT="Nadpis 2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="425.985251968504" YPOS="1586.23722047244" WIDTH="240.306133858268" HEIGHT="218.267716535433" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240.306 0 240.306 0 240.306 0 240.306 0 240.306 218.268 240.306 218.268 240.306 218.268 240.306 218.268 0 218.268 0 218.268 0 218.268 0 218.268 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240.306 0 240.306 0 240.306 0 240.306 0 240.306 218.268 240.306 218.268 240.306 218.268 240.306 218.268 0 218.268 0 218.268 0 218.268 0 218.268 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Sunday  "/>
+            <tab/>
+            <tab/>
+            <ITEXT CH="         Turing Lecture hall"/>
+            <para PARENT="Nadpis 2"/>
+            <ITEXT CH="9:00-17:00 Workshops"/>
+            <para PARENT="Claim"/>
+            <ITEXT CH="• Python clinic"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="• Workshops and sprints"/>
+            <para PARENT="Default Paragraph Style"/>
+            <para/>
+            <ITEXT CH="Sunday  "/>
+            <tab/>
+            <tab/>
+            <ITEXT CH="     Babbage Lecture hall"/>
+            <para PARENT="Nadpis 2"/>
+            <ITEXT CH="8:30-18:30 Django Girls Workshop"/>
+            <para PARENT="Claim"/>
+            <ITEXT CH="Workshop for girls who would love to become web developers. For registered participants only."/>
+            <para PARENT="Default Paragraph Style"/>
+            <para PARENT="Default Paragraph Style"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="A word about lightning talks"/>
+            <para PARENT="Nadpis 2"/>
+            <ITEXT CH="A lightning talk has only one rule: 5 minutes and stop."/>
+            <para PARENT="Claim"/>
+            <para/>
+            <ITEXT CH="Want to give a talk, but do not have enough material for a full talk? Have a shout-out for an open source project or tool? Want to share a community story (everyone loves stories!)? Preach the must-know fundamentals of virtualenv, PyPI, import this, etc? Then lightning talks are for you!"/>
+            <para/>
+            <ITEXT CH="These talks are, at max, 5 minute talks done in quick succession in the main hall. No need to fill the whole slot, though!"/>
+            <para/>
+            <ITEXT CH="Lightning talks are low stress, tons of fun, and are rumoured to have originated at one of the very first PyCons years ago. ("/>
+            <ITEXT CPARENT="Italic" CH="https://us.pycon.org/2014/speaking/cfp/"/>
+            <ITEXT CH=")"/>
+            <para/>
+            <ITEXT CH="|"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="425.985251968504" YPOS="1459.52855905512" WIDTH="240.944881889764" HEIGHT="14.1732283464567" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240.945 0 240.945 0 240.945 0 240.945 0 240.945 14.1732 240.945 14.1732 240.945 14.1732 240.945 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240.945 0 240.945 0 240.945 0 240.945 0 240.945 14.1732 240.945 14.1732 240.945 14.1732 240.945 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Saturday: Track 2  "/>
+            <tab/>
+            <ITEXT CH="         Turing Lecture hall"/>
+            <trail PARENT="Nadpis 2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="445.827771653544" YPOS="1473.27659055118" WIDTH="221.102362204724" HEIGHT="110.551181102362" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 221.102 0 221.102 0 221.102 0 221.102 0 221.102 110.551 221.102 110.551 221.102 110.551 221.102 110.551 0 110.551 0 110.551 0 110.551 0 110.551 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 221.102 0 221.102 0 221.102 0 221.102 0 221.102 110.551 221.102 110.551 221.102 110.551 221.102 110.551 0 110.551 0 110.551 0 110.551 0 110.551 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CPARENT="Italic" CH="Scientific Computing with Python"/>
+            <ITEXT CH=", Claus Aichinger (EN)"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CPARENT="Italic" CH="Automatic English Text Correction"/>
+            <ITEXT CH=", Tatiana Al-Chueyr Martins (EN)"/>
+            <para PARENT="Predvolený štýl"/>
+            <ITEXT CPARENT="Italic" CH="Building Netflow Based NIDS Out of Open Source Components"/>
+            <ITEXT CH=", "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Michal Kuffa (EN)"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Lunch break"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CPARENT="Italic" CH="Building And Deploying Containerized Python Apps In the Cloud"/>
+            <ITEXT CH=", "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Rodolfo Carvalho (EN)"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CPARENT="Italic" CH="Automating Distributed Tasks with Ansible In the Cloud"/>
+            <ITEXT CH=","/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="B"/>
+            <ITEXT FONTSIZE="7" CH="ü"/>
+            <ITEXT CPARENT="Character Style for Slovak diacritics" CH="ş"/>
+            <ITEXT CH="ra Köken (EN)"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CPARENT="Italic" CH="Vagrant - End of &quot;It works on my machine&quot; saga"/>
+            <ITEXT CH=", V"/>
+            <ITEXT CPARENT="Character Style for Slovak diacritics" CH="ě"/>
+            <ITEXT CH="roš Kaplan (CZ)"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CPARENT="Italic" CH="Personalised Emails Using Python and Spark"/>
+            <ITEXT CH=", Tomáš Sirný (SK)"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CPARENT="Italic" CH="Automated Measurements Using Python"/>
+            <ITEXT CH=", Matúš Rehák (SK)"/>
+            <para PARENT="Default Paragraph Style"/>
+            <para LINESPMode="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
